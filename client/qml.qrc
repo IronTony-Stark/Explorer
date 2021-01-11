@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/StyleSettings/qmldir</file>
+        <file>qml/StyleSettings/Style.qml</file>
+        <file>qml/ResourceProvider/qmldir</file>
+        <file>qml/ResourceProvider/Resources.qml</file>
+        <file>qml/ResourceProvider/resources/loader.svg</file>
+        <file>qml/ResourceProvider/resources/directory.png</file>
+        <file>qml/ResourceProvider/resources/fs_file.png</file>
+        <file>qml/ResourceProvider/resources/locked_directory.png</file>
+        <file>qml/ResourceProvider/resources/locked_file.png</file>
+        <file>qml/ResourceProvider/resources/home.svg</file>
+        <file>qml/ResourceProvider/resources/arrow_left.svg</file>
+        <file>qml/ResourceProvider/resources/arrow_right.svg</file>
+        <file>qml/ResourceProvider/resources/arrow_down.svg</file>
+        <file>qml/ResourceProvider/resources/compass.svg</file>
+        <file>qml/BusyIndicatorImage.qml</file>
+        <file>qml/FileTree.qml</file>
+    </qresource>
+</RCC>
